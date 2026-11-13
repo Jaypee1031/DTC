@@ -1,0 +1,7 @@
+﻿vendor/
+*.zip
+.env*
+*.local.php
+.DS_Store
+Thumbs.db
+
